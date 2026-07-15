@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.MiniTerm" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00FF00</item>
+        <item name="android:windowBackground">#000000</item>
+    </style>
+</resources>
